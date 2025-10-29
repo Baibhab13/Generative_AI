@@ -17,8 +17,8 @@
 
 - [x]  Document Loaders
 - [x]  Text Splitters
-- [ ]  Embedding
-- [ ]  Vector stores
+- [x]  Embedding
+- [x]  Vector stores
 - [ ]  Retrivers
 - [ ]  Building a RAG applications
 
