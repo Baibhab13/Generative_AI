@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Create the embedding model (you must have GOOGLE_API_KEY in your .env)
-embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+embeddings = GoogleGenerativeAIEmbeddings(model="gemini-2.5-flash")
 
 # Initialize Semantic Chunker
 text_splitter = SemanticChunker(
