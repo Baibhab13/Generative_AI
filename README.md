@@ -19,12 +19,12 @@
 - [x]  Text Splitters
 - [x]  Embedding
 - [x]  Vector stores
-- [ ]  Retrivers
-- [ ]  Building a RAG applications
+- [x]  Retrivers
+- [x]  Building a RAG applications
 
 ### Agents
 
-- [ ]  Tools and ToolKit
+- [x]  Tools and ToolKit
 - [ ]  Tool Calling
 - [ ]  Building an AI agent
 
