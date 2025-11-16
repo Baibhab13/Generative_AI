@@ -25,7 +25,7 @@
 ### Agents
 
 - [x]  Tools and ToolKit
-- [ ]  Tool Calling
+- [x]  Tool Calling
 - [ ]  Building an AI agent
 
 
