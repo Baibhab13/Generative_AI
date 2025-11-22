@@ -118,6 +118,4 @@
 * Agent Tool Calling: [https://python.langchain.com/v0.1/docs/modules/agents/agent_types/tool_calling/](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/tool_calling/)
 * Build an Agent (IBM tutorial): [https://www.ibm.com/think/tutorials/using-langchain-tools-to-build-an-ai-agent](https://www.ibm.com/think/tutorials/using-langchain-tools-to-build-an-ai-agent)
 
----
 
-If you want, I can format this into a **full README**, add **code examples**, or convert this into **Notion-friendly blocks**.
