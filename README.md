@@ -1,4 +1,4 @@
-# Generative AI – LangChain Overview
+# Generative AI – LangChain
 
 ## 1. Fundamentals
 
